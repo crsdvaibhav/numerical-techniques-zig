@@ -1,1 +1,1 @@
-# numerical-techniques-zig
+# Numerical Techniques in Zig
